@@ -32,9 +32,6 @@
     "domainFqdn": {
       "type": "string"
     },
-    "domainFqdn": {
-      "type": "string"
-    },
     "vmPrefix": {
       "type": "string"
     },
